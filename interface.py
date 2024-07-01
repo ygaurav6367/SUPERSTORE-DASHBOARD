@@ -17,7 +17,7 @@ def action():
 
 
 df1= Label(df ,text="Whether Forecasting App", fg ="white" ,bg = "black")
-df1.place(x=570,y=250)
+df1.place(x=670,y=350)
 
 
 img=PhotoImage(file="D:\Downloads\wheather.png")
@@ -25,15 +25,15 @@ df2=Label(df,image=img)
 df2.pack()
 
 df2 = Entry(df , font=("Arial",20),textvariable=v)
-df2.place(x=500,y=300)
+df2.place(x=610,y=380)
 
 df3 = Button(df, text="Get The Result",fg="white",bg="black",command=action)
-df3.place(x=570,y=350)
+df3.place(x=690,y=425)
 
 df4= Label(df ,text="Whether Forecasting App", fg ="white" ,bg = "black")
-df4.place(x=570,y=400)
+df4.place(x=670,y=460)
 
 df5= Label(df ,text="Temperature in celsiu", fg ="white" ,bg = "black")
-df5.place(x=570,y=450)
+df5.place(x=680,y=490)
 
 df.mainloop()
