@@ -1,7 +1,7 @@
 
 # Superstore Dashboard
-
-![Superstore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGY1Y2IwMTUtMTMxZi00ODRhLTg0N2MtZjkzY2FhOTBhOTEyIiwidCI6ImJhZjMzMTIwLTQ1MDktNDRjMS1iZjhlLTQxOGFmMTQ0MGZhYSJ9)
+Access the live Sales Performance Dashboard using the following link:
+[Superstore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGY1Y2IwMTUtMTMxZi00ODRhLTg0N2MtZjkzY2FhOTBhOTEyIiwidCI6ImJhZjMzMTIwLTQ1MDktNDRjMS1iZjhlLTQxOGFmMTQ0MGZhYSJ9)
 
 ## Overview
 Superstore Dashboard is a Power BI project that provides insights into sales data, customer demographics, and product performance. This dashboard helps businesses make informed decisions based on data analysis.
