@@ -1,7 +1,6 @@
 
 Access the live Sales Performance Dashboard using the following link:
 [Superstore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGY1Y2IwMTUtMTMxZi00ODRhLTg0N2MtZjkzY2FhOTBhOTEyIiwidCI6ImJhZjMzMTIwLTQ1MDktNDRjMS1iZjhlLTQxOGFmMTQ0MGZhYSJ9)
-
 # Superstore Dashboard
 
 ## Overview
