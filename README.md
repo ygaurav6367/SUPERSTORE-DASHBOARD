@@ -39,7 +39,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, please contact me at [yadavgaurv2003@gmail.com].
-
----
-
-Feel free to modify this template as per your project requirements. Make sure to replace placeholders like `yourusername` and `your-email@example.com` with your actual GitHub username and email address.
